@@ -3,10 +3,8 @@ p {
     font-size: 14px;
     color: red;
 }
-body {
-    background-color:white;
-    align-items:center;
-    font-family: sans-serif;
-    display: flex;
-    flex-direction: column;
+header {
+    border: 10 px solid lightblue;
+    padding:
+
 }
