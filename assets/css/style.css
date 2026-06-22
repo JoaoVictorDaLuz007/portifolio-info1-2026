@@ -5,5 +5,7 @@ p {
 }
 body {
     background-color:white;
-    
+    align-items:center;
+    font-family: sans-serif;
+
 }
