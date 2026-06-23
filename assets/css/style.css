@@ -31,3 +31,10 @@ section {
     background-color: gold;
     background-clip: content-box;
 }
+article {
+    border: 10px dotted lightgreen;
+    padding: 10px;
+    margin: 50px;
+    background-color: lightgreen;
+    background-clip: content-box;
+}
