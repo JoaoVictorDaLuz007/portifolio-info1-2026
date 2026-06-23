@@ -7,11 +7,11 @@ header {
     border: 10px solid lightblue;
     padding:10px;
     margin:50px;
-    background-color: blue;
+    background-color: lightblue;
     background-clip: content-box;
 }
 nav {
-    border: 10px solid lightsalmon;
+    border: 10px solid blue;
     padding: 10px;
     margin: 50px;
     background-color: orange;
