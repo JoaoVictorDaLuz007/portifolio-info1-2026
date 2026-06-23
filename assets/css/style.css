@@ -1,8 +1,4 @@
-p {
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    color: red;
-}
+
 header {
     border: 10px solid lightblue;
     padding:10px;
@@ -32,9 +28,23 @@ section {
     background-clip: content-box;
 }
 article {
-    border: 10px dotted lightgreen;
+    border: 2px dotted lightgreen;
     padding: 10px;
     margin: 50px;
     background-color: lightgreen;
+    background-clip: content-box;
+}
+aside {
+    border: 10px solid grey;
+    padding: 10px;
+    margin: 50px;
+    background-color: purple;
+    background-clip: content-box;
+}
+footer {
+    border: 10px solid grey;
+    padding: 10px;
+    margin: 50px;
+    background-color: rgb(51, 50, 50);
     background-clip: content-box;
 }
