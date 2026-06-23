@@ -4,7 +4,16 @@ p {
     color: red;
 }
 header {
-    border: 10 px solid lightblue;
-    padding:
-
+    border: 10px solid lightblue;
+    padding:10px;
+    margin:50px;
+    background-color: blue;
+    background-clip: content-box;
+}
+nav {
+    border: 10px solid lightsalmon;
+    padding: 10px;
+    margin: 50px;
+    background-color: orange;
+    background-clip: content-box;
 }
