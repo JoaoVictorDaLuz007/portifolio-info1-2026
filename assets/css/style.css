@@ -24,3 +24,10 @@ main {
     background-color: lightgrey;
     background-clip: content-box;
 }
+section {
+    border: 10px solid grey;
+    padding: 10px;
+    margin: 50px;
+    background-color: gold;
+    background-clip: content-box;
+}
